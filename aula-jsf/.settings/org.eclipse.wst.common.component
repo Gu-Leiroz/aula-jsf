@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="aula-jsf">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <dependent-module archiveName="javax.faces-2.0.10-javadoc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/D:/eclipse/javax.faces-2.0.10-javadoc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                        
+        
+        <property name="java-output-path" value="/aula-jsf/build/classes"/>
+                
+        <property name="context-root" value="aula-jsf"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
